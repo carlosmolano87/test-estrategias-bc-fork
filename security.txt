@@ -1,3 +1,3 @@
 Este es mi hash secreto de seguridad:
 
-key = w9af0aczjnbaf323
+key = password123!
